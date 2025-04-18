@@ -1,4 +1,4 @@
 # proyecto-regresion
 
-# Jupyter notebook y modelos
-# Modelo random forest comprimido 
+Repositorio con Jupyter notebook y modelos.
+Modelo random forest comprimido 
